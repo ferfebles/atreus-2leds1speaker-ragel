@@ -24,6 +24,8 @@ to add introduced several bugs or strange behaviours.
 With Ragel, I was able to define a clear state machine implementing the previous
 logic, and simplified other problems like the need for a 'fn_decay'.
 
+![Ragel state machine](https://github.com/ferfebles/atreus-2leds1speaker-ragel/raw/master/layout_common.png)
+
 Adding new features like going directly from any layer to 'Hold', exiting any
 layer by clicking once, or avoiding unwanted keys when changing layers was
 quite easy.
