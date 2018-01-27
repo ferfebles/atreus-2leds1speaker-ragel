@@ -16,6 +16,8 @@ usually followed by another from the same layer (like Spanish accented vowels).
 the keys that are usually followed by another from the same layer (cursors
 again) and the ones that I use less (like function keys).
 
+![Atreus with leds](https://github.com/ferfebles/atreus-2leds1speaker-ragel/raw/master/atreus-leds.jpg)
+
 I tried to implement all this logic by hand. But every new feature that I wanted
 to add introduced several bugs or strange behaviours.
 
