@@ -1,7 +1,7 @@
 # Atreus Firmware + Ragel logic
 
 This is a fork from the Atreus Firmware, in which I have implemented the layer
-change using only the 'fn' key using the Ragel state machine compiler.
+change using only the 'fn' key with the Ragel state machine compiler.
 
 The idea was that the keyboard will have 4 layers:
 
