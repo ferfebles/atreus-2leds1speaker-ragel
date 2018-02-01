@@ -53,6 +53,10 @@ This is the 'picture' of my keyboard layer logic.
 With Ragel, I was able to define a clear state machine implementing the previous
 logic, and simplified other problems like the need for a 'fn_decay'.
 
+This is how the Ragel code looks like
+
+![Ragel code](https://github.com/ferfebles/atreus-2leds1speaker-ragel/raw/master/ragel_code.png)
+
 Usually, state machines have a 'string' or 'array' as input, a start state, and at
 the end of the process, the current state is your output. Ragel is very interesting
 because it allows you to:
